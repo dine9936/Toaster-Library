@@ -1,0 +1,3 @@
+include ':dinprogresslibrary'
+include ':app'
+rootProject.name = "DinProgress Dialog"
